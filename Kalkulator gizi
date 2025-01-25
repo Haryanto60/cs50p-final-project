@@ -1,0 +1,5 @@
+project/
+├── project.py         # File utama Python
+├── test_project.py    # File pengujian dengan pytest
+├── requirements.txt   # Daftar pustaka eksternal
+├── README.md          # Dokumentasi proyek
